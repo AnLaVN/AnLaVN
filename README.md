@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnLaVN
 - 👀 I’m interested in Java, SQL
 - 🌱 I’m currently learning in FPT Polytechnic
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me 👉 🔗 https://anlavn.github.io/Binh_An-Credit/ 🔗
 
 <!---
