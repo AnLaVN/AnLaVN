@@ -1,4 +1,4 @@
-- 👋 Hi, you can call me An, have a lot nickname like @AnLaVn, @BinhAn2003VN, @Kato, @KatoVN, @Zukitori Kato(Discord)
+- 👋 Hi, you can call me An, I have a lot nickname like: @AnLaVn, @BinhAn2003VN, @Kato, @KatoVN, @Zukitori Kato(Discord)...
 - 👀 I’m interested in Java, SQL
 - 🌱 I’m currently learning in FPT Polytechnic
 - 💞️ I’m looking to collaborate on Discord
