@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, SQL Server
 - 🌱 I’m currently learning in FPT Polytechnic
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me 👉 🔗 [Here](https://anlavn.github.io/Binh_An-Credit/) 🔗
+- 📫 How to reach me ? 👉 🔗 [Digital Business Card](https://anlavn.github.io/Binh_An-Credit/) 🔗
 
 <!---
 AnLaVN/AnLaVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
