@@ -6,12 +6,6 @@
 - 🤙 How to reach me ? 👉 [Digital Business Card](https://anlavn.github.io/Binh_An-Credit/)
 <hr>
 
-# 🧘‍♂️ My Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnLaVN"/>
-</p>
-<hr>
-
 # 🌐 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&hide=html,css&showicon=true&theme=tokyonight"/>
