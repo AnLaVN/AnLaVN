@@ -1,6 +1,6 @@
 # 😍 About me ![](https://komarev.com/ghpvc/?username=AnLaVN&color=blue&style=flat-square&label=PROFILE+VIEWS)
 - 👋 Hi, I have a lot nickname like: @AnLaVn, @BinhAn2003VN, @Kato, @KatoVN, @Zukitori Kato(Discord)... but you can call me An. 
-- 🤌 ***Java*** and ***SQL Server*** are my favorite languages, I has some understanding of *C*, *C++*, *Python*, *mySQL*, and I has also tried *Motoko*.
+- 🤌 ***Java*** is my favorite languages, I has some understanding of *C*, *C++*, *Python*, *SQL Server*, *mySQL*, and I has also tried *Motoko*.
 - ✍️ I'm currently learning in FPT Polytechnic.
 - 🤝 I'm looking to collaborate on Discord.
 - 🤙 How to reach me ? 👉 [Digital Business Card](https://anlavn.github.io/Binh_An-Credit/)
