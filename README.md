@@ -8,7 +8,7 @@
 
 # 🌐 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&showicon=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&hide=html,css&showicon=true&theme=tokyonight"/>
 </p>
 <hr>
  
