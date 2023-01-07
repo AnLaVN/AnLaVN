@@ -13,13 +13,13 @@
 <hr>
  
 
-# ✨ Stats
+# ✨ My Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/?username=AnLaVN&showicon=true&theme=tokyonight"/>
 </p>
 <hr>
   
-
-- 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=AnLaVN&theme=dracula)](https://github.com/AnLaVN)
-- [![Top Langs]()](https://github.com/AnLaVN)
+# 🏆 My Trophy
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=AnLaVN&theme=dracula"/>
+</p>
