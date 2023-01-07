@@ -19,7 +19,7 @@
 </p>
 <hr>
   
-# 🏆 My Trophy
+# 🏆 My Trophys
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=AnLaVN&theme=dracula"/>
 </p>
