@@ -54,7 +54,7 @@
 	<br><li>
 		<h2>Top Languages</h2>
 		<p align="center">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight&hide=html,css"/>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight"/>
 		</p>
 	</li>
 </ul>
