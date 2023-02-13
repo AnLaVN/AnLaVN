@@ -10,10 +10,48 @@
 - 🤝 I'm looking to collaborate on Discord.
 - 🤙 How to reach me ? Visit my [Digital Business Card](https://anlavn.github.io/)
 
-# 🌐 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight&hide=html,css"/>
-</p>
+# 🌐 Languages
+<ul align="center">
+	<br><li>
+		<h2>FontEnd</h2>
+		<code><img width="50" m src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/html-5.svg"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/css-3.svg"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/javascript.svg"/></code>
+	</li>
+	<br><li>
+		<h2>BackEnd</h2>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/java.svg"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/c.svg"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/cpp.svg"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/python.svg"/></code>
+		<code><img width="50" src="https://internetcomputer.org/assets/images/motoko-bfb2a06409d149fe621f5e849c6527b4.webp"/></code>
+	</li>
+	<br><li>
+		<h2>Framework</h2>
+		<!-- <code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg"/></code> -->
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/bootstrap.svg"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></code>
+	</li>
+	<br><li>
+		<h2>Database</h2>
+		<code><img width="50" src="https://img.icons8.com/color/480/microsoft-sql-server.png"/></code>
+		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/mysql.svg"/></code>
+	</li>
+	<br><li>
+		<h2>IDE / Tools</h2>
+		<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/></code>
+		<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
+	</li>
+	<br><li>
+		<h2>Top Languages</h2>
+		<p align="center">
+			<img
+				src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight&hide=html,css" />
+		</p>
+	</li>
+</ul>
+
+
  
 
 # ✨ My Stats
