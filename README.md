@@ -11,6 +11,8 @@
 - 🤙 How to reach me ? Visit my [Digital Business Card](https://anlavn.github.io/)
 
 # 🌐 Languages
+- 👍 Levels of languages are ranked in descending order from left to right.
+- 🫠 Some languages ( Motoko ) need retraining to use it.
 <ul align="center">
 	<br><li>
 		<h2>FontEnd</h2>
@@ -24,6 +26,9 @@
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/c.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/cpp.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/python.svg"/></code>
+	</li>
+	<br><li>
+		<h2>Smart Contract</h2>
 		<code><img width="50" src="https://internetcomputer.org/assets/images/motoko-bfb2a06409d149fe621f5e849c6527b4.webp"/></code>
 	</li>
 	<br><li>
@@ -45,8 +50,7 @@
 	<br><li>
 		<h2>Top Languages</h2>
 		<p align="center">
-			<img
-				src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight&hide=html,css" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight&hide=html,css"/>
 		</p>
 	</li>
 </ul>
