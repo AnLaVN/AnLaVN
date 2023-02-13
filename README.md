@@ -11,8 +11,8 @@
 - 🤙 How to reach me ? Visit my [Digital Business Card](https://anlavn.github.io/)
 
 # 🏆 Achievements
-- Participated and reached the semi-finals of the FPT Edu Hackathon 2022. [See more](https://github.com/AnLaVN/BlockChainMotoko)
-- Achieved a near perfect score in "Project 1" at FPT-Polytecnic for the EOA-Exam Online Application project. [See more](https://github.com/AnLaVN/EOA)
+- [ 07/2022 ] - Participated and reached the semi-finals of the FPT Edu Hackathon 2022. [See more](https://github.com/AnLaVN/BlockChainMotoko)
+- [ 12/2022 ] - Achieved a near perfect score in "Project 1" at FPT-Polytecnic for the EOA-Exam Online Application project. [See more](https://github.com/AnLaVN/EOA)
 
 # 🌐 Languages
 - 👍 Levels of languages are ranked in descending order from left to right.
