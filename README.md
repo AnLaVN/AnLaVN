@@ -23,8 +23,6 @@
 		<code><img width="50" m src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/html-5.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/css-3.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/javascript.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/bootstrap.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/angular-icon.svg"/></code>
 	</li>
 	<br><li>
 		<h2>BackEnd</h2>
