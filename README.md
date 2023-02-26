@@ -32,14 +32,14 @@
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/python.svg"/></code>
 	</li>
 	<br><li>
-		<h2>Smart Contract</h2>
-		<code><img width="50" src="https://internetcomputer.org/assets/images/motoko-bfb2a06409d149fe621f5e849c6527b4.webp"/></code>
-	</li>
-	<br><li>
 		<h2>Framework</h2>
 		<!-- <code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg"/></code> -->
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/bootstrap.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></code>
+	</li>
+	<br><li>
+		<h2>Smart Contract</h2>
+		<code><img width="50" src="https://internetcomputer.org/assets/images/motoko-bfb2a06409d149fe621f5e849c6527b4.webp"/></code>
 	</li>
 	<br><li>
 		<h2>Database</h2>
