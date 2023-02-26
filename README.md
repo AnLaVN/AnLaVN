@@ -5,7 +5,7 @@
 
 # 😍 About me 
 - 👋 Hi, I have a lot nickname like: @AnLaVn, @BinhAn2003VN, @Kato, @KatoVN, @Zukitori Kato(Discord)... but you can call me An. 
-- 🤌 ***Java*** is my favorite languages, I has some understanding of *C*, *C++*, *JavaScript*, *Python*, *SQL Server*, *mySQL*, and I has also tried *Motoko*.
+- 🤌 ***Java*** is my favorite languages, I has some understanding of *C*, *C++*, *JavaScript*, *Python*, *SQL Server*, *mySQL* and I has also tried *Motoko*.
 - ✍️ I'm currently learning in FPT Polytechnic.
 - 🤝 I'm looking to collaborate on Discord.
 - 🤙 How to reach me ? Visit my [Digital Business Card](https://anlavn.github.io/)
