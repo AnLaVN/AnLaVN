@@ -19,7 +19,7 @@
 - 🫠 Some languages ( Motoko ) need retraining to use it.
 <ul align="center">
 	<br><li>
-		<h2>FontEnd</h2>
+		<h2>FrontEnd</h2>
 		<code><img width="50" m src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/html-5.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/css-3.svg"/></code>
 		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/javascript.svg"/></code>
