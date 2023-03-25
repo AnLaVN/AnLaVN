@@ -18,45 +18,45 @@
 - 👍 Levels of languages are ranked in descending order from left to right.
 - 🫠 Some languages ( Motoko ) need retraining to use it.
 <ul align="center">
-	<br><li>
-		<h2>FrontEnd</h2>
-		<code><img width="50" m src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/html-5.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/css-3.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/javascript.svg"/></code>
-	</li>
-	<br><li>
-		<h2>BackEnd</h2>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/java.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/c.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/cpp.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/python.svg"/></code>
-	</li>
-	<br><li>
-		<h2>Framework</h2>
-		<!-- <code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg"/></code> -->
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/bootstrap.svg"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></code>
-	</li>
-	<br><li>
-		<h2>Smart Contract</h2>
-		<code><img width="50" src="https://internetcomputer.org/assets/images/motoko-bfb2a06409d149fe621f5e849c6527b4.webp"/></code>
-	</li>
-	<br><li>
-		<h2>Database</h2>
-		<code><img width="50" src="https://img.icons8.com/color/480/microsoft-sql-server.png"/></code>
-		<code><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/mysql.svg"/></code>
-	</li>
-	<br><li>
-		<h2>IDE / Tools</h2>
-		<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/></code>
-		<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
-	</li>
-	<br><li>
-		<h2>Top Languages</h2>
-		<p align="center">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight"/>
-		</p>
-	</li>
+<br><li>
+<h2>FrontEnd</h2>
+<code><a href="https://en.wikipedia.org/wiki/HTML5"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/html-5.svg"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/css-3.svg"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/JavaScript"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/javascript.svg"/></a></code>
+</li>
+<br><li>
+<h2>BackEnd</h2>
+<code><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/java.svg"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/c.svg"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/cpp.svg"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/python.svg"/></a></code>
+</li>
+<br><li>
+<h2>Framework</h2>
+<!-- <code><a href="https://en.wikipedia.org/wiki/Spring_Framework"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg"/></a></code> -->
+<code><a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/bootstrap.svg"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/AngularJS"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></a></code>
+</li>
+<br><li>
+<h2>Smart Contract</h2>
+<code><a href="https://internetcomputer.org/docs/current/motoko/main/motoko"><img width="50" src="https://internetcomputer.org/assets/images/motoko-bfb2a06409d149fe621f5e849c6527b4.webp"/></a></code>
+</li>
+<br><li>
+<h2>Database</h2>
+<code><a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img width="50" src="https://img.icons8.com/color/480/microsoft-sql-server.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/MySQL"><img width="50" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/mysql.svg"/></a></code>
+</li>
+<br><li>
+<h2>IDE / Tools</h2>
+<code><a href="https://en.wikipedia.org/wiki/NetBeans"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a></code>
+</li>
+<br><li>
+<h2>Top Languages</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLaVN&langs_count=10&showicon=true&theme=tokyonight"/>
+</p>
+</li>
 </ul>
 
 
