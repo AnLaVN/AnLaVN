@@ -50,6 +50,7 @@
 <h2>IDE / Tools</h2>
 <code><a href="https://en.wikipedia.org/wiki/NetBeans"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Eclipse_(software)"><img width="50" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/eclipse.svg"/></a></code>
 </li>
 <br><li>
 <h2>Top Languages</h2>
