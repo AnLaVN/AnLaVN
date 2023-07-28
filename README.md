@@ -3,6 +3,10 @@
   <br><img src="https://komarev.com/ghpvc/?username=AnLaVN&color=blue&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
 
+<!--
+![](https://i.pinimg.com/originals/fb/1c/0c/fb1c0c48488b0ff156ac373505f5433a.gif)
+![](https://i.pinimg.com/originals/8c/7b/6c/8c7b6c82d29edfeac1bc2c3c1182ef20.gif) -->
+
 # 😍 About me 
 - 👋 Hi, I have a lot nickname like: @AnLaVn, @BinhAn2003VN, @Kato, @KatoVN, @Zukitori Kato(Discord)... but you can call me An. 
 - 🤌 ***Java*** is my favorite languages, I has some understanding of *C*, *C++*, *JavaScript*, *Python*, *SQL Server*, *mySQL* and I has also tried *Motoko*.
