@@ -5,7 +5,18 @@
 
 <!--
 ![](https://i.pinimg.com/originals/fb/1c/0c/fb1c0c48488b0ff156ac373505f5433a.gif)
-![](https://i.pinimg.com/originals/8c/7b/6c/8c7b6c82d29edfeac1bc2c3c1182ef20.gif) -->
+![](https://i.pinimg.com/originals/8c/7b/6c/8c7b6c82d29edfeac1bc2c3c1182ef20.gif) 
+
+https://github.com/AnLaVN/AnLaVN/assets/90229487/c300dbfd-cd97-48ec-bd3c-4c1042492c8d.mp4
+
+
+<video width="320" height="240" controls>
+  <source src="https://res.cloudinary.com/anlavn/video/upload/v1696228888/CMaster/jljjbgwg5xqvamjupxin.mp4" type="video/mp4">
+</video>-->
+
+
+
+
 
 # 😍 About me 
 - 👋 Hi, I have a lot nickname like: @AnLaVn, @BinhAn2003VN, @Kato, @KatoVN, @Zukitori Kato(Discord)... but you can call me An. 
