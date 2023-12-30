@@ -78,7 +78,7 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 					
 
 
-<br><h1 align="center">Socials</h1>
+<br><h1>Socials</h1>
 <p align="center">
 	<a href="https://anlavn.github.io" target="_blank" rel="noreferrer">
 		<img src="https://anlavn.github.io/image/AnLaVN.jpg" width="50" height="50" style="border-radius:50%"/>
