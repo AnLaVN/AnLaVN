@@ -90,6 +90,13 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" />
 		</picture>
 	</a>
+	<a href="https://www.linkedin.com/in/anlavn" target="_blank" rel="noreferrer">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/>
+			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" />
+		</picture>
+	</a>
 	<a href="https://www.facebook.com/anlavn" target="_blank" rel="noreferrer">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
