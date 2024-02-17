@@ -11,7 +11,7 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 
 *   🌍  I'm based in Ho Chi Minh City, VietNam
 *   🖥️  See my portfolio at [here](http://anlavn.github.io)
-*   ✉️  You can contact me at [binhan29122003@gmail.com](mailto:binhan29122003@gmail.com)
+*   ✉️  You can contact me at [anlavn03@gmail.com](mailto:anlavn03@gmail.com)
 *   🧠  I'm learning Java Spring Boot, Relational database (MS SQL Server, mySQL), AngularJS
 
 
