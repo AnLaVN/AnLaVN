@@ -155,7 +155,7 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 	<a href="https://github.com/AnLaVN/EOA">
 		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=EOA&theme=tokyonight&hide_border=true&locale=en"/>
 	</a>
-	<a href="https://github.com/AnLaVN/AChat" align="right">
+<!-- 	<a href="https://github.com/AnLaVN/AChat" align="right">
 		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=AChat&theme=tokyonight&hide_border=true&locale=en"/>
-	</a>
+	</a> -->
 </div>
