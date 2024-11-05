@@ -11,7 +11,7 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 
 *   🌍  I'm based in Ho Chi Minh City, VietNam
 *   🖥️  See my portfolio at [here](http://anlavn.github.io)
-*   ✉️  You can contact me at [anlavn03@gmail.com](mailto:anlavn03@gmail.com)
+*   ✉️  You can contact me at [Messenger](https://m.me/AnLaVN)
 *   🧠  I'm learning Java Spring Boot, Relational database (MS SQL Server, mySQL), AngularJS
 
 
@@ -97,7 +97,7 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" />
 		</picture>
 	</a>
-	<a href="https://www.facebook.com/anlavn" target="_blank" rel="noreferrer">
+	<a href="https://www.facebook.com/AnLaVN" target="_blank" rel="noreferrer">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"/>
