@@ -7,30 +7,39 @@
 
 
 <br><h1>About me</h1>
-My name is Bình An (or An La), but you can call me An &lt;3. I've been learning to code for 2 year at FPT-Polytechnic.
+My name is Bình An (or An La), but you can call me An &lt;3. I've been learning to code for 2 year at FPT College.
 
 *   🌍  I'm based in Ho Chi Minh City, VietNam
 *   🖥️  See my portfolio at [here](http://anlavn.github.io)
 *   ✉️  You can contact me at [Messenger](https://m.me/AnLaVN)
-*   🧠  I'm learning Java Spring Boot, Relational database (MS SQL Server, mySQL), AngularJS
+*   🧠  I'm learning Java Spring Boot, Relational database (MS SQL Server, mySQL), AngularJS, React
 
 
 
 <br><h1>Skills</h1>
 <p align="center">
 	<b>Front-End</b><br>
-	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5"/>
-	</a>
-	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3"/>
-	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript"/>
+	</a>
+	<a href="https://react.dev" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React"/>
+	</a>
+	<a href="https://mui.com/joy-ui/getting-started/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/materialui-colored.svg" width="50" height="50" alt="MUI Joy"/>
+	</a>
+	<a href="https://angular.io/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="50" height="50" alt="Angular"/>
+	</a>
+ 	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap"/>
 	</a>
 	<br><br><b>Back-End</b><br>
 	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java"/>
+	</a>
+	<a href="https://spring.io/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg" width="50" height="50" alt="Spring Boot"/>
 	</a>
 	<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C"/>
@@ -41,22 +50,12 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python"/>
 	</a>
-	<br><br><b>Framework</b><br>
-	<a href="https://spring.io/" target="_blank" rel="noreferrer">
-		<img src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg" width="50" height="50" alt="Spring Boot"/>
-	</a>
-	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap"/>
-	</a>
-	<a href="https://angular.io/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="50" height="50" alt="Angular"/>
-	</a>
 	<br><br><b>Database</b><br>
-	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
-		<img src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50" height="50" alt="MSSQL Server"/>
-	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="mySQL"/>
+	</a>
+	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+		<img src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50" height="50" alt="MSSQL Server"/>
 	</a>
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="50" height="50" alt="Firebase"/>
@@ -64,15 +63,6 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 	<br><br><b>Other</b><br>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git"/>
-	</a>
-	<a href="https://render.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="50" height="50" alt="Render"/>
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker"/>
-	</a>
-	<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" height="50" alt="Google Cloud"/>
 	</a>
 </p>
 					
@@ -143,19 +133,19 @@ My name is Bình An (or An La), but you can call me An &lt;3. I've been learning
 
 <br><h1>Top Repositories</h1>
 <div width="100%" align="center">
-	<a href="https://github.com/AnLaVN/AL-Library">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=AL-Library&theme=tokyonight&hide_border=true&locale=en"/>
+	<a href="https://github.com/AnLaVN/CineLa">
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=CineLa&theme=tokyonight&hide_border=true&locale=en"/>
 	</a>
-	<a href="https://github.com/AnLaVN/CMaster" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=CMaster&theme=tokyonight&hide_border=true&locale=en"/>
+	<a href="https://github.com/AnLaVN/AL-Library" align="right">
+		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=AL-Library&theme=tokyonight&hide_border=true&locale=en"/>
 	</a>
 </div>
 <br><br>
 <div width="100%" align="center">
-	<a href="https://github.com/AnLaVN/EOA">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=EOA&theme=tokyonight&hide_border=true&locale=en"/>
+	<a href="https://github.com/AnLaVN/AIOapp">
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=AIOapp&theme=tokyonight&hide_border=true&locale=en"/>
 	</a>
-<!-- 	<a href="https://github.com/AnLaVN/AChat" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=AChat&theme=tokyonight&hide_border=true&locale=en"/>
-	</a> -->
+	<a href="https://github.com/AnLaVN/CMaster" align="right">
+		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnLaVN&repo=CMaster&theme=tokyonight&hide_border=true&locale=en"/>
+	</a>
 </div>
